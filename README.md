@@ -1,0 +1,1 @@
+HEY ,hello this is ATM simulator which is virtual and this help to user to remove the money deposit the money change the pin and manymoe i will add like balance this will only login when you have entered with correct username and pin for that username then only you will able to to login and get deposit and withdrawl process 
